@@ -1,0 +1,8 @@
+langchain
+langgraph
+deepagents
+mistralai
+fastapi
+pydantic
+toolbox-langchain
+toolbox-core
