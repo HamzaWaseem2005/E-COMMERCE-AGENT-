@@ -44,11 +44,7 @@ deep_agent = create_deep_agent(
     system_prompt=SUPERVISOR_PROMPT,
     subagents=[database_agent],
     checkpointer=memory,
-    interrupt_on={
-        "query_database_tool": {
-            "allowed_decisions": ["approve", "reject"]
-        }
-    }
+    
 )
 
 class ChatRequest(BaseModel):
