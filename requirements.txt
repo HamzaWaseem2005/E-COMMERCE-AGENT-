@@ -2,6 +2,7 @@ langchain
 langgraph
 deepagents
 mistralai
+groq
 fastapi
 pydantic
 toolbox-langchain
