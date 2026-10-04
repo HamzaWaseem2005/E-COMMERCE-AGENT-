@@ -72,8 +72,8 @@ Conversation memory is preserved per session using LangGraph's `MemorySaver` che
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/HamzaWaseem2005/E-COMMERCE-AGENT-.git
+cd E-COMMERCE-AGENT-
 ```
 
 ### 2. Create a virtual environment
